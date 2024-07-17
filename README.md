@@ -66,7 +66,4 @@ And the final Game over screen
 
 **Have fun playing the Snake Game! 🐍**
 
-## Need any help?
-##### Connect me on [LinkedIn](https://www.linkedin.com/in/manisha-varshney-914646191/)  <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="25"> 
-
 Thank you for exploring our Android app development repository! If you have any questions or feedback, please don't hesitate to reach out.
